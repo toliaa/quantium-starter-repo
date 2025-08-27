@@ -1,0 +1,18 @@
+body {
+    background-color: #fffad7;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: #292d42;
+}
+
+.dash-graph {
+    border: 2px solid #457b9d;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+    padding: 10px;
+    background-color: white;
+}
